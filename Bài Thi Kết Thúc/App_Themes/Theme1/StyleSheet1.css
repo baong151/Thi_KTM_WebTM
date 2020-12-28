@@ -1,0 +1,39 @@
+﻿nav {
+    background-color: #99e4f8;
+    width:100px;
+    height: auto;
+}
+body {
+    text-align:center;
+}
+
+h1 {
+    background-color:  #808080;
+    width :100px;
+    height: auto;
+}
+
+footer {
+    background-color: #ff6a00;
+}
+
+div {
+    background-image: url('https://img4.thuthuatphanmem.vn/uploads/2020/05/12/anh-background-mau-xam_103622475.jpg');
+    width: 100%;
+    height: 100%;
+    background-size:cover;
+    margin : 0;
+    
+
+
+}
+*{
+    margin:0;
+    bottom:0;
+
+}
+html {
+    background-size:cover;
+    width: 100%;
+    height:100%:
+}
